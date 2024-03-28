@@ -1,3 +1,4 @@
+![pngtree-let-me-spend-time-with-you-in-the-colorful-summer-days-image_161448](https://github.com/vardhanreddy369/SpendWise/assets/91843112/b9e60ccc-70b8-430f-832e-57a4f8a1bf09)
 
 ---
 
@@ -7,7 +8,6 @@
 SpendWise is a financial wellness platform aimed at promoting responsible spending habits and improving mental well-being. Our project recognizes the critical link between financial stress and mental health challenges, offering personalized financial guidance, expense tracking tools, and educational resources.
 
 ## Team
-- **Project Lead:** A.J Swaroop (Roll No: 2110030209)
 - **Team Members:**
   - G. Sri Vardhan Reddy (Roll No: 2110030217)
   - R. Satya Sai (Roll No: 2110030256)

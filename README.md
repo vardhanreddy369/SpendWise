@@ -1,4 +1,5 @@
-![pngtree-let-me-spend-time-with-you-in-the-colorful-summer-days-image_161448](https://github.com/vardhanreddy369/SpendWise/assets/91843112/b9e60ccc-70b8-430f-832e-57a4f8a1bf09)
+![Illustration of saving money](https://github.com/vardhanreddy369/SpendWise/assets/91843112/f141efb8-8eb8-49f9-ac5e-39dad1b5d95a)
+
 
 ---
 

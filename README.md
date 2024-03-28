@@ -10,6 +10,7 @@ SpendWise is a financial wellness platform aimed at promoting responsible spendi
 
 ## Team
 - **Team Members:**
+  - A.J Swaroop (Roll No: 2110030209)
   - G. Sri Vardhan Reddy (Roll No: 2110030217)
   - R. Satya Sai (Roll No: 2110030256)
   - Ch. Dileep Reddy (Roll No: 2110030307)
